@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
+<img src="/assets/banner-animado.svg" width="100%"/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&lines=Construyendo+experiencias+digitales+pulidas;Especializado+en+Front-End+%2B+Web+Design;Desarrollador+de+Iglesia+Nueva+Vida;Culiac%C3%A1n%2C+Sinaloa%2C+M%C3%A9xico" />
