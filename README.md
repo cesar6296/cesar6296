@@ -15,8 +15,6 @@
 <div align="center">
 
 <img src="https://api.iconify.design/octicon:paintbrush-16.svg?color=%236C63FF" width="14"/> Desarrollador front-end enfocado en **web design** y experiencias digitales pulidas<br>
-<img src="https://api.iconify.design/octicon:mortar-board-16.svg?color=%236C63FF" width="14"/> Servicio social en la **Facultad de Informática Culiacán (FIC)**<br>
-<img src="https://api.iconify.design/octicon:home-16.svg?color=%236C63FF" width="14"/> Desarrollador principal del sitio web de **Iglesia Nueva Vida**<br>
 <img src="https://api.iconify.design/octicon:rocket-16.svg?color=%236C63FF" width="14"/> Explorando Android, automatización con Python<br>
 <img src="https://api.iconify.design/octicon:location-16.svg?color=%236C63FF" width="14"/> Culiacán, Sinaloa, México
 
