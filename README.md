@@ -36,12 +36,6 @@
 <img src="https://api.iconify.design/octicon:paintbrush-16.svg?color=%23000000" width="15"/>&nbsp; Desarrollador front-end enfocado en <b>web design</b> y experiencias digitales pulidas
 </td></tr>
 <tr><td>
-<img src="https://api.iconify.design/octicon:mortar-board-16.svg?color=%23000000" width="15"/>&nbsp; Servicio social en la <b>Facultad de Informática Culiacán (FIC)</b>
-</td></tr>
-<tr><td>
-<img src="https://api.iconify.design/octicon:home-16.svg?color=%23000000" width="15"/>&nbsp; Desarrollador principal del sitio web de <b>Iglesia Nueva Vida</b>
-</td></tr>
-<tr><td>
 <img src="https://api.iconify.design/octicon:rocket-16.svg?color=%23000000" width="15"/>&nbsp; Explorando Android (WebView híbrido) y automatización con Python
 </td></tr>
 </table>
