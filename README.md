@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://github.com/cesar6296">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&width=500&height=60&lines=Uziel+L%C3%B3pez" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&width=500&height=60&repeat=false&lines=Uziel+L%C3%B3pez" />
 </a>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+Web+Designer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+Web+Designer;Especializado+en+Front-End+%2B+Web+Design;Desarrollador+de+Iglesia+Nueva+Vida;Culiac%C3%A1n%2C+Sinaloa%2C+M%C3%A9xico" />
 </a>
 
 <br/>
@@ -46,8 +46,6 @@
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" width="100%"/>
-
 <details open>
 <summary><h2><img src="https://api.iconify.design/octicon:package-24.svg?color=%23000000" width="22"/>&nbsp; Proyectos destacados</h2></summary>
 
@@ -75,8 +73,6 @@ Fork y exploraci√≥n del motor de videojuegos Godot Engine, participando en el c√
 </table>
 
 </details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" width="100%"/>
 
 <details open>
 <summary><h2><img src="https://api.iconify.design/octicon:tools-24.svg?color=%23000000" width="22"/>&nbsp; Stack</h2></summary>
