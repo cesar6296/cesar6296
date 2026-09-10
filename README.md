@@ -49,7 +49,7 @@
 <tr>
 <td width="50%" valign="top">
 <b>Restaurante Panamá</b><br>
-Sistema de reservaciones de lujo — Auth (email/Google/SMS), plano interactivo, calendario, PWA y app híbrida en Android.
+Sistema de reservaciones de lujo - Auth (email/Google/SMS), plano interactivo, calendario, PWA y app híbrida en Android.
 </td>
 <td width="50%" valign="top">
 <b>Iglesia Nueva Vida</b><br>
@@ -59,7 +59,7 @@ SPA en JS vanilla + Firebase/Firestore, CMS con rich-text editors, sistema de Wh
 <tr>
 <td width="50%" valign="top">
 <b>Speed Detector</b><br>
-App web con Flask + YOLOv8 + SORT — sube un video y obtiene el video procesado con la velocidad de cada vehículo detectado, con parámetros de calibración ajustables desde la interfaz.
+App web con Flask + YOLOv8 + SORT - sube un video y obtiene el video procesado con la velocidad de cada vehículo detectado, con parámetros de calibración ajustables desde la interfaz.
 </td>
 <td width="50%" valign="top">
 <b>Godot Engine</b><br>
