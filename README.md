@@ -1,12 +1,15 @@
-<h1 align="center">Uziel López</h1>
-<p align="center">Front-End Developer | Web Designer</p>
-<p align="center">
-  <img src="dragon.gif" width="50%"/>
-</p>
+<div align="center">
+
+<h1>Uziel López</h1>
+<p>Front-End Developer | Web Designer</p>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&lines=Construyendo+experiencias+digitales+pulidas;Especializado+en+Front-End+%2B+Web+Design;Desarrollador+de+Iglesia+Nueva+Vida;Culiac%C3%A1n%2C+Sinaloa%2C+M%C3%A9xico" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&lines=Construyendo+experiencias+digitales+pulidas;Especializado+en+Front-End+%2B+Web+Design;Desarrollador+de+Iglesia+Nueva+Vida;Culiac%C3%A1n%2C+Sinaloa%2C+M%C3%A9xico" />
 </a>
+
+<br/>
+
+<img src="dragon.gif" width="45%"/>
 
 <br/>
 
