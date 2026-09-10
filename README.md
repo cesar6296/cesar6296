@@ -1,10 +1,11 @@
 <div align="center">
 
-<h1>Uziel López</h1>
-<p>Front-End Developer | Web Designer</p>
+<a href="https://github.com/cesar6296">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=60&lines=Uziel+L%C3%B3pez" />
+</a>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&lines=Construyendo+experiencias+digitales+pulidas;Especializado+en+Front-End+%2B+Web+Design;Desarrollador+de+Iglesia+Nueva+Vida;Culiac%C3%A1n%2C+Sinaloa%2C+M%C3%A9xico" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+Web+Designer" />
 </a>
 
 <br/>
