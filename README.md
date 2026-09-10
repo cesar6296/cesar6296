@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/cesar6296">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=60&lines=Uziel+L%C3%B3pez" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&width=500&height=60&lines=Uziel+L%C3%B3pez" />
 </a>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+Web+Designer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Front-End+Developer+%7C+Web+Designer" />
 </a>
 
 <br/>
